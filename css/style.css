@@ -1,0 +1,43 @@
+body {
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+html {
+    font-size: 15px;
+}
+#main {
+    padding: 30px;
+}
+h1 {
+    color: black;
+    font-size: 40px;
+    margin-bottom: 35px;
+}
+#img-div {
+    background-color: white;
+    padding: 12px;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    align-items: center;
+}
+#img-caption {
+    margin: 10px 0 10px 0;
+    font-size: 35px;
+  }
+a {
+    color: rebeccapurple;
+}
+
+#tribute-info {
+    text-align: justify;
+    line-height: 30px;
+}
+
+#tribute-info > h1, h3 {
+    text-align: center;
+}
